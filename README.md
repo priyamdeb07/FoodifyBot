@@ -17,7 +17,7 @@ This project is about a food chatbot that provides a conversational interface th
 ##
     pip install fastapi[all]
 # Execution
-1. To run fastapi backend server<br>
+1. To run FastAPI backend server<br>
    a. Go to backend directory in your command prompt<br>
    b. Run this command:
    ##
